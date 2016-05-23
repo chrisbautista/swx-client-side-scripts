@@ -1,0 +1,12 @@
+	.question-disabled {
+		color:#DDD;
+	}
+
+	.quizForm {
+		display:none;
+		overflow: hidden;
+		height: 700px;
+		border: 1px solid #EEE;
+		padding:2em;
+		margin: 2em 0;
+	}
